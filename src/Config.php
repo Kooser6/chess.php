@@ -4,7 +4,7 @@
  * @link https://github.com/ryanhs/chess.php
  */
 
-namespace Kooser\Chess;
+namespace Ryanhs\Chess;
 
 /**
  * An extension on the `Chess` class (Config).
