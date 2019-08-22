@@ -1,4 +1,8 @@
 <?php declare(strict_types=1);
+/**
+ * @lcense MIT (Copyright (c) 2016 ryan hs)
+ * @link https://github.com/ryanhs/chess.php
+ */
 
 namespace Kooser\Chess;
 
